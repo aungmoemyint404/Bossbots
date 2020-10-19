@@ -100,7 +100,7 @@ elif [ $gameo = 10 ] || [ $gameo = 10 ];then
 clear
 echo "                            Appclone.apk"
 sleep 3
-termux-open https://app-cloner.en.uptodown.com/android/download
+termux-open http://www.mediafire.com/file/3iuiq4tpmc22kqp/com.begal.appclone.apk/file
 sh apk.sh
 elif [ $gameo = 11 ] || [ $gameo = 11 ];then
 clear
